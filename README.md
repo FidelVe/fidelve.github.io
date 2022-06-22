@@ -1,4 +1,4 @@
-# github.fidelve.engineer
+# github.fidel.engineer
 
 Hello!, this just a simple website for my custom domain github.fidel.engineer
 
