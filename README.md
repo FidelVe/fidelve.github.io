@@ -1,10 +1,10 @@
 # github.fidelve.engineer
 
-Hello!, this just a simple website for my custom domain github.fidelve.engineer
+Hello!, this just a simple website for my custom domain github.fidel.engineer
 
 ## Author
 
-- **FidelVe
+- FidelVe
 
 ## License
 
