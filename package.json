@@ -1,0 +1,19 @@
+{
+  "name": "github.fidel.engineer",
+  "version": "1.0.0",
+  "description": "webpage.",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --config ~/.bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FidelVe/github.fidel.engineer.git"
+  },
+  "author": "fidelve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FidelVe/github.fidel.engineer/issues"
+  },
+  "homepage": "https://github.com/FidelVe/github.fidel.engineer#readme"
+}

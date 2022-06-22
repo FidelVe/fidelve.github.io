@@ -1,15 +1,11 @@
-# FidelVe Website
+# github.fidelve.engineer
 
-This is my personal website, I created it using [GatsbyJS](https://www.gatsbyjs.org/) and [ReactJS](https://reactjs.org/).
+Hello!, this just a simple website for my custom domain github.fidelve.engineer
 
 ## Author
 
-- **Fidel Sanchez-Bueno**.
+- **FidelVe
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-- README.md file format by [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).

@@ -1,0 +1,54 @@
+/* STYLE RESET */
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    ¦ Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  line-height: 1.6;
+  font-size: 18px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+/* CUSTOM STYLES */
+.main,
+.card {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+.card {
+  border: 1px solid #cecece;
+  padding: 10px;
+  border-radius: 2px;
+}
+.card:hover,
+#github-logo:hover {
+  transform: translateY(1px);
+  box-shadow: 0 4px 8px 0 rgba(30, 58, 138, 0.2),
+    0 6px 20px 0 rgba(30, 58, 138, 0.19);
+}
+
+#github-logo {
+  background-color: #000;
+  border-radius: 50%;
+  object-fit: none;
+  height: 120px;
+  padding: 5px;
+}
